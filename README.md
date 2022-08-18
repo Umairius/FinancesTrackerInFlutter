@@ -1,16 +1,11 @@
 # financetracker
 
-A new Flutter project.
+# A Finance Tracker:
 
-## Getting Started
+## Implementation:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* You can add transactions with their amount
+* You can delete transactions
+* Each transaction affects the bar charts that show the total spending of a week in each day
+* The UI is updated whenever a change is made in the transactions.
+* Enjoy this neat little helper tool!
